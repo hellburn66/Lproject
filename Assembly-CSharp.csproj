@@ -53,6 +53,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\code\nodecontroller.cs" />
+    <Compile Include="Assets\code\playercontroll.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
